@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hola, mi nombre es Arturo Soto 👋
+Soy estudiante de la Universidad Carlos III de Madrid en el grado de Ingeniería Informática.
+Estoy interesado en el desarrollo de bases de datos y la inteligencia artificial.
+### Fortalezas💪🏽
+- Programación en Python
+- Uso de librerías gráficas como Pyxel
+- Programación básica en SQL
+- Ánalisis de datos en R
+- Conocimientos básicos de gestión de empresas
+### Contacto 📞
+Para cualquier duda o pregunta estaré encantado de responderlas a través de mi correo electrónico [arturosotoruedas@gmail.com](mailto:arturosotoruedas@gmail.com)
+
 
 <!--
 **4rtux/4rtux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
