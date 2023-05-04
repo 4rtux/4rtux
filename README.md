@@ -27,5 +27,7 @@ Here are some ideas to get you started:
 
 -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rtux&show_icons=true&locale=en&layout=compact" alt="4rtux" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rtux&show_icons=true&locale=en&layout=compact" alt="barbaracarvajal" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4rtux)](https://github.com/anuraghazra/github-readme-stats)
 
