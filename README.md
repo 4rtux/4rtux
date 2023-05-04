@@ -7,9 +7,11 @@ Estoy interesado en el desarrollo de bases de datos y la inteligencia artificial
 - Programación básica en SQL
 - Ánalisis de datos en R
 - Conocimientos básicos de gestión de empresas
+### Stats 📊
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rtux&show_icons=true&locale=en&layout=compact" alt="barbaracarvajal" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4rtux)](https://github.com/anuraghazra/github-readme-stats)
 ### Contacto 📞
 Para cualquier duda o pregunta estaré encantado de responderlas a través de mi correo electrónico [arturosotoruedas@gmail.com](mailto:arturosotoruedas@gmail.com)
-
 
 <!--
 **4rtux/4rtux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,8 +28,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rtux&show_icons=true&locale=en&layout=compact" alt="barbaracarvajal" /></p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4rtux)](https://github.com/anuraghazra/github-readme-stats)
-
