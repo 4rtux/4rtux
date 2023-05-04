@@ -9,7 +9,9 @@ Estoy interesado en el desarrollo de bases de datos y la inteligencia artificial
 - Conocimientos básicos de gestión de empresas
 ### Stats 📊
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rtux&show_icons=true&locale=en&layout=compact" alt="barbaracarvajal" /></p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4rtux)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contacto 📞
 Para cualquier duda o pregunta estaré encantado de responderlas a través de mi correo electrónico [arturosotoruedas@gmail.com](mailto:arturosotoruedas@gmail.com)
 
