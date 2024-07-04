@@ -7,12 +7,12 @@ Estoy interesado en el desarrollo de bases de datos y la inteligencia artificial
 - Programación en JavaScript
 - Conocimientos en Estructuras de Datos y Algoritmos
 - Programación en C y C++
-- Programación básica en SQL
+- Conocimientos en cifrado y ciberseguridad
+- Programación en SQL
 - Conocimientos básicos de programación de IAs con Python
 - Ánalisis de datos en R
 - Uso de librerías gráficas como Pyxel
 - Conocimientos básicos de gestión de empresas
-
 
 ### Stats 📊
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rtux&show_icons=true&locale=en&layout=compact" alt="barbaracarvajal" /></p>
