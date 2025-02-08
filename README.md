@@ -1,16 +1,16 @@
 ### Hola, mi nombre es Arturo Soto 👋
 Soy estudiante de la Universidad Carlos III de Madrid en el grado de Ingeniería Informática.
-Estoy interesado en el desarrollo de bases de datos y la inteligencia artificial.
+Estoy interesado en el desarrollo full-stack web y la inteligencia artificial, de momento, ya que me gusta probar nuevas cosas y aprender nuevos lenguajes.
 ### Fortalezas💪🏽
 - Programación en Python
-- Diseño de Redes Neuronales
+- Diseño de Redes Neuronales en Python
 - Programación en HTML y CSS
 - Programación en JavaScript
+- Gestión de NAS
 - Conocimientos en Estructuras de Datos y Algoritmos
 - Programación en C y C++
 - Conocimientos en cifrado y ciberseguridad
 - Programación en SQL
-- Conocimientos básicos de programación de IAs con Python
 - Ánalisis de datos en R
 - Uso de librerías gráficas como Pyxel
 - Conocimientos básicos de gestión de empresas
