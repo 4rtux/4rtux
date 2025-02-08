@@ -3,6 +3,7 @@ Soy estudiante de la Universidad Carlos III de Madrid en el grado de Ingeniería
 Estoy interesado en el desarrollo de bases de datos y la inteligencia artificial.
 ### Fortalezas💪🏽
 - Programación en Python
+- Diseño de Redes Neuronales
 - Programación en HTML y CSS
 - Programación en JavaScript
 - Conocimientos en Estructuras de Datos y Algoritmos
