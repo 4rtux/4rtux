@@ -1,27 +1,26 @@
-### Hola, mi nombre es Arturo Soto 👋
-Soy estudiante de la Universidad Carlos III de Madrid en el grado de Ingeniería Informática.
-Estoy interesado en el desarrollo full-stack web y la inteligencia artificial, de momento, ya que me gusta probar nuevas cosas y aprender nuevos lenguajes.
-### Fortalezas💪🏽
-- Programación en Python
-- Diseño de Redes Neuronales en Python
-- Programación en HTML y CSS
-- Programación en JavaScript
-- Gestión de NAS
-- Conocimientos en Estructuras de Datos y Algoritmos
-- Programación en C y C++
-- Conocimientos en cifrado y ciberseguridad
-- Programación en SQL
-- Ánalisis de datos en R
-- Uso de librerías gráficas como Pyxel
-- Conocimientos básicos de gestión de empresas
+### Hello, my name is Arturo Soto. 👋
+I'm computer science graduate that is now finishing an Artificial Intelligence Master's Degree.
+I'm interested in Cloud projects, bare metal programming and AI-related projects.
+### Technical Abilities💪🏽
+- Python
+- Neural Network design
+- AI model training, fine-tuning, design and deployment.
+- JavaScript and TypeScript.
+- NAS and Server administration.
+- Data Structures and Algorithms.
+- C and C++.
+- Cibersecurity knowledge.
+- SQL and databases.
+- Data Analysis on R
+- Business Management
 
 ### Stats 📊
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rtux&show_icons=true&locale=en&layout=compact" alt="barbaracarvajal" /></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4rtux)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contacto 📞
-Para cualquier duda o pregunta estaré encantado de responderlas a través de mi correo electrónico [arturosotoruedas@gmail.com](mailto:arturosotoruedas@gmail.com)
+### Contact 📞
+For any question or interest, you can contact me through this mail: [arturosotoruedas@gmail.com](mailto:arturosotoruedas@gmail.com)
 
 <!--
 **4rtux/4rtux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
