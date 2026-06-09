@@ -15,9 +15,9 @@ I'm interested in Cloud projects, bare metal programming and AI-related projects
 - Business Management
 
 ### Stats 📊
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rtux&show_icons=true&locale=en&layout=compact" alt="barbaracarvajal" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rtux&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="barbaracarvajal" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4rtux)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4rtux&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact 📞
 For any question or interest, you can contact me through this mail: [arturosotoruedas@gmail.com](mailto:arturosotoruedas@gmail.com)
